@@ -24,5 +24,5 @@ I am solving problems from platforms like *LeetCode, GeeksforGeeks, and Codeforc
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/navreet-singh-)  
-- [LeetCode](https://leetcode.com/your-username)  
+- [LeetCode](https://leetcode.com/navreet-5911)  
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username)
